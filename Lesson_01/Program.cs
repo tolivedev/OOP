@@ -1,4 +1,6 @@
 ﻿using System;
+using Lessons._02Lesson;
+using System.Threading;
 
 namespace Lesson_01
 {
@@ -6,7 +8,16 @@ namespace Lesson_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("See attach pic");
+
+            //new task01();
+            //Thread.Sleep(1500);
+            //new task02();
+            //Thread.Sleep(1500);
+            //new task03();
+            //Thread.Sleep(1500);
+            new task04();
+            //Console.WriteLine("See attach pic");
+
             Console.ReadKey();
         }
     }
