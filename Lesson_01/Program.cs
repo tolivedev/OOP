@@ -22,7 +22,6 @@ namespace Lesson_01
             //less03
 
             new Lessons._03Lesson.task01();
-
             new Lessons._03Lesson.task02();
 
             Console.ReadKey();
