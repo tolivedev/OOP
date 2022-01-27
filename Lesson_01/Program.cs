@@ -1,7 +1,8 @@
 ﻿using System;
-using Lessons._02Lesson;
-using Lessons._03Lesson;
+//using Lessons._02Lesson;
+//using Lessons._03Lesson;
 using System.Threading;
+using Lessons._04Lesson;
 
 namespace Lesson_01
 {
@@ -21,8 +22,14 @@ namespace Lesson_01
 
             //less03
 
-            new Lessons._03Lesson.task01();
-            new Lessons._03Lesson.task02();
+            //new Lessons._03Lesson.task01();
+            //new Lessons._03Lesson.task02();
+
+
+            //less04
+
+            new task01(); // +task02
+
 
             Console.ReadKey();
         }
