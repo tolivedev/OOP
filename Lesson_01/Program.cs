@@ -3,7 +3,8 @@
 //using Lessons._03Lesson;
 using System.Threading;
 //using Lessons._04Lesson;
-using Lessons._05Lesson;
+//using Lessons._05Lesson;
+using Lessons._06Lesson;
 
 namespace Lesson_01
 {
@@ -12,9 +13,8 @@ namespace Lesson_01
         static void Main(string[] args)
         {
 
-            //less05 Вызываю объект таски с логикой управления.
+            //less06
             new task01();
-
 
             Console.ReadKey();
         }
