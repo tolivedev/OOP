@@ -7,9 +7,6 @@
 
   <ItemGroup>
     <Folder Include="Attach_pic\" />
-    <Folder Include="04Lesson\" />
-    <Folder Include="05Lesson\" />
-    <Folder Include="06Lesson\" />
     <Folder Include="07Lesson\" />
   </ItemGroup>
 
