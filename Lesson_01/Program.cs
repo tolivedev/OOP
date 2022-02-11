@@ -4,7 +4,8 @@
 using System.Threading;
 //using Lessons._04Lesson;
 //using Lessons._05Lesson;
-using Lessons._06Lesson;
+//using Lessons._06Lesson;
+using Lessons._07Lesson;
 
 namespace Lesson_01
 {
@@ -13,7 +14,7 @@ namespace Lesson_01
         static void Main(string[] args)
         {
 
-            //less06
+            //less07
             new task01();
 
             Console.ReadKey();
